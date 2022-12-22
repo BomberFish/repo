@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm64
 Codename: bomberfish
 Components: main
-Date: Thu, 22 Dec 2022 13:10:56 +0000
+Date: Thu, 22 Dec 2022 13:36:54 +0000
 Description: A rootless software repository for jailbroken iDevices. Coming soon.
 Label: BomberFish Industries Repository
 Origin: BomberFish Industries Repository
@@ -10,28 +10,28 @@ Version: 0.69
 MD5Sum:
  0ed107b7f3ce08a77e16129b9ae6c814             1106 Packages
  31dd2950802f97e8a8a2aa2cdd68a2a3              736 Packages.bz2
- a57ab6c063f98e2858dbad9110b8b17d              689 Packages.gz
+ 76d7b63df4b1ca6caaa375fd58bc9570              689 Packages.gz
  d489973f2426023b44ea6552c8c8c3f3              756 Packages.xz
  827024a0b14c96a915534610454344d2              689 Packages.zst
- 1598abcce04357c7768c85bba7bc1fcf              297 Release
+ 84d6203e21c48fdda63c6e84b43b6bf1              297 Release
 SHA1:
  5916882aa99d44ee14bb4df1d415961aee67fa9d             1106 Packages
  0179c65b6c14352bda4160edc1f4e6235ce6332f              736 Packages.bz2
- 330cf429909eaed42964eea118656b37c357f60f              689 Packages.gz
+ 66c90d417b332790605e04d8a2d9a14d20c27483              689 Packages.gz
  685ca94aa661d7b793753f4f615f0e1c1f3a1819              756 Packages.xz
  c0bc7fb55174efc1da547fcf528f754bc3f2b943              689 Packages.zst
- ce98533d6fd7dea5240c98c3273a332857184341              297 Release
+ 64f0f4777271cad0a87bc62f67ad93df9e4564aa              297 Release
 SHA256:
  dc4d187b9e2280a9a104ede97f88771488dd4d3c05ad71a22e246d4625315f9f             1106 Packages
  ce6207d2c8aca1170bf893bb9efde9454460252fd85804a088ec8d647824e68c              736 Packages.bz2
- 491fd25dad8ce3e5732dd7f329702d77323a50b767954ef9655eb29ac4733798              689 Packages.gz
+ c075810cede26c86e9ef7bd2f6795baf2836cb9b4bff3761ea18243a51f9752f              689 Packages.gz
  6ffa82f44712a7090bdfdddbc4b5aaa2b29c8f76fef2b90cca90b70b5332efae              756 Packages.xz
  d81479471f61bfb25dc1257cf7e53ce85041a3686aba8a592b9bbdd53d30adcf              689 Packages.zst
- 7a1a24c18dff14f5c8334e7ee8e1ce2b0857c3087beb3a834011f52656bd4514              297 Release
+ ca8dec37f53b3b0929304ba0acb5e92a6c2d32b157fa38972020dcf7dae45940              297 Release
 SHA512:
  23618ffdb867c37d97faba74326ea5e57f4f9ba36e7d3c3583070ecc1335199cca69407fd8f70a61d0a5a7c630212c1951d7ccaa96457f10a884e83403dcc37d             1106 Packages
  6abc25dcbcb16f0d93c1b88d1a420566818baa39db0cb892b4c5d49eb5e1198782cbae299d02fe49a42fc2f1c34d4e3afb6f78ca5d18cf49e93a72b5f4aa21f3              736 Packages.bz2
- 1923a07f5a1764eca0ab30bad985925284ef339181b162e28637c67a0c37566c8978127baebc19a1f3f9704bd3ad9503cd9f1898d8b4a988777ea5a5cac8af8f              689 Packages.gz
+ df7e2560c5b3e7927eb4256a4a1920d0b93b6009499d9d99226fb015118569d3c29dd47ca1c022ea701d4782ecfe1db7798f297aecd08439e5dde5ea9d505999              689 Packages.gz
  4dd37f25e6e288a4e624e57bbfb50f40958a76dc2707c8259910a84791d854a86741f9bcb4671ec1487e076497ac3f129ec49fa4d2fc39fb177c48997188bb28              756 Packages.xz
  2074f5b18715a9bf006094931913d9739bd32f7bf90a522ee4cc138950c2de3234b01fcec68656e7f7039f14629388e235dd61331c5f759b79eee6a80c4dad65              689 Packages.zst
- bb9cb66b7cf983a07f52e472b2f798fb8d713007acb6be7c9909ab851be90cbdd3ad9b48c438883ea08f2fa7b0283909908f9d094567b56da1af478203911e8d              297 Release
+ 705c099ba73149147393331571a98fcdcb858d8b1a95859c9af648c93f6d52976fd7b63f247a1817f9271827b9aaf2ec17fc3f002736701cdce239f4c1cb4ee1              297 Release
