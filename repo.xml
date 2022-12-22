@@ -1,12 +1,12 @@
 <repo>
     <footerlinks>
         <link>
-            <name>Follow me on Twitter</name>
-            <url>https://twitter.com/localdevice</url>
+            <name>Follow me on GitHub</name>
+            <url>https://github.com/BomberFish</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
-            <name>I want this depiction template</name>
+            <name>I want this depiction and repo template</name>
             <url>https://github.com/localdevice/repo.me</url>
             <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
         </link>
